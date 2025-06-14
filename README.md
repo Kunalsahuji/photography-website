@@ -2,10 +2,12 @@
 
 ## 🌐 Website Preview
 
-![Website Preview](https://drive.google.com/uc?export=view&id=1_VZKk4khGywglnjFz7f6PQq3bCRvXs4Z)
+![Website Preview](https://drive.google.com/uc?export=view&id=1IHH37vxeQEzhHZ4kxZL7bG1iSz1B64pf)
 
-## 🌐 Live Demo
-🔗 [Visit the Website](https://your-live-link.com) *(Replace with actual URL)*
+---
+
+### 🌐 [Visit Live Site](https://kunalsahuji.github.io/photography-website/)
+
 
 ---
 
@@ -56,8 +58,11 @@ portfolio-website/
 ## 📇 Contact
 
 📦 GitHub: [github.com/Kunalsahuji](https://github.com/Kunalsahuji/kunal-sahu)
+
 🔗 LinkedIn: [linkedin.com/in/kunal-sahu-7688ba1b0](https://www.linkedin.com/in/kunal-sahu-7688ba1b0)
+
 📌 Notion: [Watch my content](https://www.notion.so/1dff7c6ce1bb803787fbddd34e422ab4?v=1e0f7c6ce1bb8052b14c000cb57448ee&pvs=4)
+
 📧 Email: [ksahu0103@gmail.com](mailto:ksahu0103@gmail.com)
 
 
